@@ -3,4 +3,21 @@ body {
     background-color: white;
 
 }
+.jumboTitle {
 
+    text-align: center
+
+}
+
+.jumbotron {
+
+    padding: 0%;
+    width: 100%;
+
+}
+
+.btn-lg2 {
+
+    width: 1000px;
+
+}
